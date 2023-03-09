@@ -1,0 +1,22 @@
+
+:root {
+    --colorPrimaryColour: #530e0e;    
+    --colorOnPrimaryColour: #af1414;    
+    --colorSecondaryColour: #010317;    
+    --colorOnSecondaryColour: #c0bff2;    
+    /* main overall color */
+    --colorPrimaryColor: #4349e2;    
+    /* main undertone color */
+    --colorPrimary2: #eaeeff;    
+    /* main secondary color */
+    --colorSecondary: #60268e;    
+    /* secondary undertone color */
+    --colorSecondary2: #ececff;    
+    /* tertiary main color */
+    --colorTertiary: #347364;    
+    /* tertiary undertone color */
+    --colorTertiary2: #575757;    
+    --colorTertiary3: #4349e2;    
+    --colorTertiary4: #eaeeff;    
+    --colorTertiary5: #eaeeff;    
+}
